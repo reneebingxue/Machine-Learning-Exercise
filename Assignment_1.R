@@ -1,6 +1,6 @@
 #File: Machine_Learning_Lab1.R
 #Project: Assignment 1 for Machine_Learning
-#Author: Bingxue Li
+#Author: B Li
 #Date: 2024-02-06
 
 #################
